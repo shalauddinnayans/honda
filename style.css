@@ -23,7 +23,9 @@ body {
 .bordersecondary {
   border-color: #f8ae27;
 }
-
+.navlink {
+  color: white;
+}
 .headercolor {
   background-color: #264653;
 }
