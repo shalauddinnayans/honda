@@ -2,3 +2,39 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.bgcolor {
+  background-color: #20318d;
+}
+.bgcolordark {
+  background-color: #101010;
+}
+.primary {
+  color: #20318d;
+}
+.secondary {
+  color: #f8ae27;
+}
+.bgprimary {
+  background-color: #20318d;
+}
+.bgsecondary {
+  background-color: #f8ae27;
+}
+.bordersecondary {
+  border-color: #f8ae27;
+}
+
+.headercolor {
+  background-color: #264653;
+}
+/* rating star */
+.fa-star.filded {
+  color: #f8ae27;
+}
+.fa-star-half.filded {
+  color: #f8ae27;
+}
+
+footer {
+  color: white;
+}
